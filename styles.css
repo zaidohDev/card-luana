@@ -222,6 +222,11 @@ body {
   left: 57px;
 }
 
+.birthdayCard {
+  cursor: pointer;
+  /* ...outros estilos... */
+}
+
 /*Style the inside part of the card*/
 .cardInside {
   position: absolute;
